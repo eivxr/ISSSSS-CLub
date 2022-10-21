@@ -1,0 +1,18 @@
+{
+    "name": "jahir-samperio/iss-cl",
+    "description": "Proyecto PHP 8, MVC, SQL Gulp",
+    "type": "project",
+    "autoload": {
+        "psr-4" : {
+            "MVC\\" : "./",
+            "Controllers\\" : "./controllers",
+            "Model\\" : "./models"
+        }
+    },
+    "authors": [ 
+        {
+            "name": "jahir"
+        }
+    ],
+    "require": {}
+}
